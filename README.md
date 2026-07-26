@@ -58,8 +58,7 @@ A web-based application for event registration and management.
 
 ## 📫 Connect with Me
 
-📧 Email: your-email@example.com
+📧 Email: jobie360@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
 Thanks for visiting my profile! ⭐
