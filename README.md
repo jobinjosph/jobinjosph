@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Jobin Joseph
 
-<!--
-**jobinjosph/jobinjosph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master of Computer Applications (MCA) Student** at Kristu Jayanti (Deemed to be University)
 
-Here are some ideas to get you started:
+💻 Passionate about Software Development, Java, Python, Web Development, and Problem Solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Student at Kristu Jayanti University
+- 🌱 Currently learning Data Structures & Algorithms, Java, and Django
+- 💼 Looking for Software Engineering Internship and Trainee Software Engineer opportunities
+- 🚀 Interested in Full Stack Development and Software Engineering
+- 📍 Bengaluru, Karnataka, India
+
+---
+
+## 🛠️ Technical Skills
+
+- Java
+- Python
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- SQLite
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## 📂 Featured Projects
+
+### 🚗 Car Wash Management System
+A web application for managing car wash bookings, appointments, customers, and service packages.
+
+### 🐶 Online Pet Care Management System
+A platform for managing pet appointments and service records.
+
+### 🎉 Event Management Website
+A web-based application for event registration and management.
+
+---
+
+## 📜 Certifications
+
+- Microsoft Azure Fundamentals
+- UiPath RPA Developer Foundation
+- Microsoft Power Platform Fundamentals
+- Infosys Springboard – Java Programming Fundamentals
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-linkedin
+
+Thanks for visiting my profile! ⭐
