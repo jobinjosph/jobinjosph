@@ -109,8 +109,3 @@ Web application for managing events, registrations, participants and event-relat
 ## 🤝 Connect
 
 **Email:** [jobie360@gmail.com](mailto:jobie360@gmail.com)  
-**GitHub:** [github.com/jobinjosph](https://github.com/jobinjosph)
-
----
-
-> Building strong fundamentals, one project at a time.
