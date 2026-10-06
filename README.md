@@ -1,7 +1,3 @@
-
-There is one Markdown technical issue in the version above: GitHub won't allow the outer code block and the inner `text` block exactly as rendered here if you copy the whole thing from one fenced block. So below is the **actual clean version I recommend putting in your `jobinjosph/README.md`**:
-
-```markdown
 # 🧠 > whoami
 
     Name: Jobin Joseph
