@@ -3,43 +3,50 @@
     Name: Jobin Joseph
     Role: MCA Student | Aspiring Software Engineer
     Location: Bengaluru, India
-    Focus: Java • Python • Backend Development • Linux • Networking
+    Focus: Java • Python • Backend • Linux • Networking
 
-I am an MCA student interested in building reliable software and developing a strong understanding of backend systems, Linux, networking, databases, and cloud technologies.
+MCA student interested in software engineering, backend development, Linux, networking and cloud technologies.
 
-Currently focused on strengthening my software engineering fundamentals through projects, coursework, certifications, and hands-on development.
+I enjoy building practical applications and continuously strengthening my programming, problem-solving and system fundamentals.
 
 ---
 
 ## ⚡ Current Focus
 
-- 💻 Java & Python development
-- 🧩 Data Structures and Algorithms
-- ⚙️ Backend development with Django
-- 🐧 Linux fundamentals
-- 🌐 Computer Networks & Networking concepts
+- 💻 Java & Python Development
+- 🧩 Data Structures & Algorithms
+- ⚙️ Backend Development with Flask & Django
+- 👁️ Computer Vision & OpenCV
+- 🐧 Linux Fundamentals
+- 🌐 Computer Networks & Networking
 - 🗄️ SQL, MySQL & SQLite
-- ☁️ Cloud fundamentals
-- 🔧 Git, GitHub & development workflows
+- ☁️ Cloud Fundamentals
+- 🔧 Git, GitHub & Development Workflows
 
 ---
 
 ## 🛠 Technical Skills
 
-**Languages**  
+**Programming Languages**  
 `Java` · `Python` · `C++` · `JavaScript` · `PHP`
 
-**Backend**  
-`Django` · `Python`
+**Backend & Frameworks**  
+`Flask` · `Django` · `Python`
 
-**Web**  
+**Web Technologies**  
 `HTML` · `CSS` · `JavaScript`
+
+**Computer Vision**  
+`OpenCV` · `NumPy` · `Face Recognition`
 
 **Databases**  
 `MySQL` · `SQLite` · `SQL`
 
 **Systems & Networking**  
 `Linux` · `Computer Networks` · `TCP/IP` · `Networking Fundamentals`
+
+**Cloud & Automation**  
+`Microsoft Azure` · `Power Platform` · `UiPath RPA`
 
 **Tools**  
 `Git` · `GitHub` · `VS Code`
@@ -48,38 +55,71 @@ Currently focused on strengthening my software engineering fundamentals through 
 
 ## 📂 Selected Projects
 
+### 👨‍🎓 FaceAttend — Smart Student Attendance Management Using Face Recognition
+
+A web-based student attendance management system that uses facial recognition to identify students and automatically record attendance during active class sessions.
+
+**Tech:** `Python` · `Flask` · `OpenCV` · `NumPy` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+
+**Key Features:**
+- Facial enrolment and recognition
+- Automatic student identification
+- Period-wise attendance sessions
+- Automatic attendance marking with entry time
+- Duplicate attendance prevention
+- Student roster management
+- Faculty attendance review and correction
+- Admin, Faculty and Student workflows
+- MySQL-based attendance and student data management
+
+---
+
 ### 🚗 Car Wash Management System
 
-Web-based application for managing customers, service packages, bookings and administrative operations.
+A web-based application designed to manage car wash customers, bookings, appointments, services and administrative operations.
 
-**Tech:** HTML · CSS · JavaScript · PHP · MySQL
+**Tech:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
+
+**Key Features:**
+- Customer management
+- Service package management
+- Booking and appointment handling
+- Administrative operations
 
 [View Repository](https://github.com/jobinjosph/Car-Wash-Management-System)
 
 ---
 
-### 🐶 Online Pet Care Management System
+### 🎉 Event Management Website
 
-Application for managing pets, customers, appointments and pet-care service records.
+A web-based platform for managing events, registrations, participants and event-related activities.
 
-**Features:** Appointment scheduling · Pet records · Customer management · Service management
+**Key Features:**
+- Event creation and management
+- Participant registration
+- Event information management
+- User-friendly web interface
 
 ---
 
-### 🎉 Event Management Website
+### 🐶 Online Pet Care Management System
 
-Web application for managing events, registrations, participants and event-related information.
+A web application designed to simplify the management of pets, customers, appointments and pet-care service records.
 
-**Features:** Event creation · Participant registration · Event management
+**Key Features:**
+- Pet information management
+- Appointment scheduling
+- Customer management
+- Service record management
 
 ---
 
 ## 📜 Certifications
 
-- Microsoft Azure Fundamentals
-- Microsoft Power Platform Fundamentals
-- UiPath RPA Developer Foundation
-- Infosys Springboard – Java Programming Fundamentals
+- ☁️ Microsoft Azure Fundamentals
+- ⚡ Microsoft Power Platform Fundamentals
+- 🤖 UiPath RPA Developer Foundation
+- ☕ Infosys Springboard — Java Programming Fundamentals
 
 ---
 
@@ -91,16 +131,30 @@ Web application for managing events, registrations, participants and event-relat
     ├── Data Structures & Algorithms
     ├── Backend Development
     ├── Linux
-    ├── Networking
-    └── Cloud Technologies
+    ├── Computer Networks
+    ├── Cloud Technologies
+    └── Git & GitHub
+
+---
+
+## 🚀 Career Interests
+
+Interested in opportunities related to:
+
+- Software Engineering
+- Backend Development
+- Network Engineering
+- Cloud & Infrastructure
+- DevOps
 
 ---
 
 ## 🤝 Connect
 
-**Email:** [jobie360@gmail.com](mailto:jobie360@gmail.com)  
-**GitHub:** [github.com/jobinjosph](https://github.com/jobinjosph)
+📧 **Email:** [jobie360@gmail.com](mailto:jobie360@gmail.com)
+
+💼 **GitHub:** [github.com/jobinjosph](https://github.com/jobinjosph)
 
 ---
 
-> Building strong fundamentals, one project at a time.
+> Building strong fundamentals and practical solutions, one project at a time.
