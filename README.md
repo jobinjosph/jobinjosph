@@ -3,50 +3,43 @@
     Name: Jobin Joseph
     Role: MCA Student | Aspiring Software Engineer
     Location: Bengaluru, India
-    Focus: Java • Python • Backend • Linux • Networking
+    Focus: Java • Python • Backend Development • Linux • Networking
 
-MCA student interested in software engineering, backend development, Linux, networking and cloud technologies.
+I am an MCA student interested in building reliable software and developing a strong understanding of backend systems, Linux, networking, databases, and cloud technologies.
 
-I enjoy building practical applications and continuously strengthening my programming, problem-solving and system fundamentals.
+Currently focused on strengthening my software engineering fundamentals through projects, coursework, certifications, and hands-on development.
 
 ---
 
 ## ⚡ Current Focus
 
-- 💻 Java & Python Development
-- 🧩 Data Structures & Algorithms
-- ⚙️ Backend Development with Flask & Django
-- 👁️ Computer Vision & OpenCV
-- 🐧 Linux Fundamentals
-- 🌐 Computer Networks & Networking
+- 💻 Java & Python development
+- 🧩 Data Structures and Algorithms
+- ⚙️ Backend development with Django
+- 🐧 Linux fundamentals
+- 🌐 Computer Networks & Networking concepts
 - 🗄️ SQL, MySQL & SQLite
-- ☁️ Cloud Fundamentals
-- 🔧 Git, GitHub & Development Workflows
+- ☁️ Cloud fundamentals
+- 🔧 Git, GitHub & development workflows
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming Languages**  
+**Languages**  
 `Java` · `Python` · `C++` · `JavaScript` · `PHP`
 
-**Backend & Frameworks**  
-`Flask` · `Django` · `Python`
+**Backend**  
+`Django` · `Python`
 
-**Web Technologies**  
+**Web**  
 `HTML` · `CSS` · `JavaScript`
-
-**Computer Vision**  
-`OpenCV` · `NumPy` · `Face Recognition`
 
 **Databases**  
 `MySQL` · `SQLite` · `SQL`
 
 **Systems & Networking**  
 `Linux` · `Computer Networks` · `TCP/IP` · `Networking Fundamentals`
-
-**Cloud & Automation**  
-`Microsoft Azure` · `Power Platform` · `UiPath RPA`
 
 **Tools**  
 `Git` · `GitHub` · `VS Code`
@@ -55,71 +48,48 @@ I enjoy building practical applications and continuously strengthening my progra
 
 ## 📂 Selected Projects
 
-### 👨‍🎓 FaceAttend — Smart Student Attendance Management Using Face Recognition
+### 👨‍🎓 FaceAttend – Smart Student Attendance Management Using Face Recognition
 
-A web-based student attendance management system that uses facial recognition to identify students and automatically record attendance during active class sessions.
+A web-based student attendance management system that uses facial recognition to identify students and automatically record attendance during class sessions.
 
-**Tech:** `Python` · `Flask` · `OpenCV` · `NumPy` · `MySQL` · `HTML` · `CSS` · `JavaScript`
+**Tech:** Python · Flask · OpenCV · NumPy · MySQL · HTML · CSS · JavaScript
 
-**Key Features:**
-- Facial enrolment and recognition
-- Automatic student identification
-- Period-wise attendance sessions
-- Automatic attendance marking with entry time
-- Duplicate attendance prevention
-- Student roster management
-- Faculty attendance review and correction
-- Admin, Faculty and Student workflows
-- MySQL-based attendance and student data management
+**Features:** Face recognition · Student enrolment · Period-wise attendance · Automatic attendance marking · Faculty review · Attendance management
 
 ---
 
 ### 🚗 Car Wash Management System
 
-A web-based application designed to manage car wash customers, bookings, appointments, services and administrative operations.
+Web-based application for managing customers, service packages, bookings and administrative operations.
 
-**Tech:** `HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
-
-**Key Features:**
-- Customer management
-- Service package management
-- Booking and appointment handling
-- Administrative operations
+**Tech:** HTML · CSS · JavaScript · PHP · MySQL
 
 [View Repository](https://github.com/jobinjosph/Car-Wash-Management-System)
 
 ---
 
-### 🎉 Event Management Website
+### 🐶 Online Pet Care Management System
 
-A web-based platform for managing events, registrations, participants and event-related activities.
+Application for managing pets, customers, appointments and pet-care service records.
 
-**Key Features:**
-- Event creation and management
-- Participant registration
-- Event information management
-- User-friendly web interface
+**Features:** Appointment scheduling · Pet records · Customer management · Service management
 
 ---
 
-### 🐶 Online Pet Care Management System
+### 🎉 Event Management Website
 
-A web application designed to simplify the management of pets, customers, appointments and pet-care service records.
+Web application for managing events, registrations, participants and event-related information.
 
-**Key Features:**
-- Pet information management
-- Appointment scheduling
-- Customer management
-- Service record management
+**Features:** Event creation · Participant registration · Event management
 
 ---
 
 ## 📜 Certifications
 
-- ☁️ Microsoft Azure Fundamentals
-- ⚡ Microsoft Power Platform Fundamentals
-- 🤖 UiPath RPA Developer Foundation
-- ☕ Infosys Springboard — Java Programming Fundamentals
+- Microsoft Azure Fundamentals
+- Microsoft Power Platform Fundamentals
+- UiPath RPA Developer Foundation
+- Infosys Springboard – Java Programming Fundamentals
 
 ---
 
@@ -131,30 +101,16 @@ A web application designed to simplify the management of pets, customers, appoin
     ├── Data Structures & Algorithms
     ├── Backend Development
     ├── Linux
-    ├── Computer Networks
-    ├── Cloud Technologies
-    └── Git & GitHub
-
----
-
-## 🚀 Career Interests
-
-Interested in opportunities related to:
-
-- Software Engineering
-- Backend Development
-- Network Engineering
-- Cloud & Infrastructure
-- DevOps
+    ├── Networking
+    └── Cloud Technologies
 
 ---
 
 ## 🤝 Connect
 
-📧 **Email:** [jobie360@gmail.com](mailto:jobie360@gmail.com)
-
-💼 **GitHub:** [github.com/jobinjosph](https://github.com/jobinjosph)
+**Email:** [jobie360@gmail.com](mailto:jobie360@gmail.com)  
+**GitHub:** [github.com/jobinjosph](https://github.com/jobinjosph)
 
 ---
 
-> Building strong fundamentals and practical solutions, one project at a time.
+> Building strong fundamentals, one project at a time.
